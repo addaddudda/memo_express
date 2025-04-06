@@ -1,0 +1,25 @@
+{
+  "name": "memo_express",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addaddudda/memo_express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/addaddudda/memo_express/issues"
+  },
+  "homepage": "https://github.com/addaddudda/memo_express#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "pug": "^3.0.3",
+    "supervisor": "^0.12.0"
+  }
+}
