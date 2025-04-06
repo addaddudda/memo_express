@@ -34,5 +34,5 @@ app.get('/check', function(req, res){
     })
 })
 app.get('/check/:id', function(req, res){
-    
+    req
 })
